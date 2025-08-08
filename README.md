@@ -1,10 +1,10 @@
 # 👋 Hi, I’m Aziz
 
 Skeptical by nature, so I know exactly what I’m doing.  
-I read a lot — it helps. Illiteracy doesn't.  
+I read a lot, because it helps. Illiteracy doesn't.  
 Not a fan of willful ignorance.
 
-I don’t follow blindly — I learn things because I want to understand, not just use them.
+I don’t follow blindly, and I learn things because I want to understand, not just use them.
 
 ---
 
