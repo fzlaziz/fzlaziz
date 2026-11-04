@@ -1,26 +1,37 @@
-# 👋 Hi, I’m Aziz
+# Hi, I'm Aziz.
 
-Skeptical by nature, so I know exactly what I’m doing.  
-I read a lot, because it helps. Illiteracy doesn't.  
+Skeptical by nature. I prefer understanding how things work rather than blindly trusting that they do.
+
+I spend most of my time around Linux, infrastructure, DevOps, and software development. I like building things, breaking them (preferably in a controlled environment), figuring out why they broke, and making sure they don't break the same way twice.
+
+I read a lot. Documentation, source code, technical write-ups, and occasionally things completely unrelated to computers.
+
 Not a fan of willful ignorance.
 
-I don’t follow blindly, and I learn things because I want to understand, not just use them.
+### What I work with
+
+**Infrastructure & DevOps**  
+Linux · Docker · Kubernetes (K3s) · Proxmox · GitHub Actions · CI/CD · Nginx · AWS · Headscale
+
+**Development**  
+TypeScript · JavaScript · Python · PHP · Bash · React · Next.js · Node.js · Laravel · Flutter
+
+**Databases & Other Things**  
+PostgreSQL · MySQL · Redis · Qdrant · REST APIs · Wazuh · Git
+
+### A few things I've worked on
+
+- Built and maintained Kubernetes environments with 100+ deployments across 39 namespaces.
+- Redesigned CI/CD workflows using self-hosted runners, Docker builders, and a private container registry.
+- Managed Linux infrastructure across 50+ virtual machines and containers.
+- Worked on security monitoring and incident investigation across 500+ endpoints.
+- Built web and mobile applications, along with backend services and APIs.
+- Experimented with semantic search, RAG, and MCP for academic research.
+
+Most of the work isn't public, so this GitHub doesn't tell the whole story.
 
 ---
 
-Haven’t shared much here (yet).  
+Still learning. Still questioning things.
 
-> For now, mostly learning & exploring.  
-> Real.
-
-## 🛠️ Language & Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/📚%20Literacy-43a047?style=for-the-badge&logoColor=white" alt="Literacy" />
-</p>
+And yes, I read the docs.
